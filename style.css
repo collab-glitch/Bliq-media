@@ -33,7 +33,9 @@ body {
 
 /* HERO */
 .hero {
-  padding: 100px 40px;
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
 }
 
 .hero-text h1 {
